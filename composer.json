@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/sisow-ideal-advanced",
-	"description": "Sisow - iDEAL Advanced driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "sisow", "ideal", "advanced", "gateway", "pronamic"],
+	"description": "[DEPRECATED] Sisow - iDEAL Advanced driver for the WordPress payment processing library.",
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "sisow", "ideal", "advanced", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/sisow-ideal-advanced/",
 	"license": "GPL",
 	"authors": [
