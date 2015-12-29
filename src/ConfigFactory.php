@@ -10,6 +10,6 @@
  */
 class Pronamic_WP_Pay_Gateways_Sisow_IDealAdvanced_ConfigFactory extends Pronamic_WP_Pay_Gateways_IDealAdvanced_ConfigFactory {
 	public function __construct() {
-		parent::__construct( 'Pronamic_WP_Pay_Gateways_Rabobank_IDealAdvanced_Config', 'Pronamic_WP_Pay_Gateways_Rabobank_IDealAdvanced_ConfigTest' );
+		parent::__construct( 'Pronamic_WP_Pay_Gateways_Sisow_IDealAdvanced_Config', 'Pronamic_WP_Pay_Gateways_Sisow_IDealAdvanced_TestConfig' );
 	}
 }
